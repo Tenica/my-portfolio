@@ -68,7 +68,7 @@ const Home = () => {
             <a href="https://wa.me/2347030586560"><i className="im im-whatsapp" aria-hidden="true"></i><span>Instagram</span></a>
         </li>
         <li>
-            <a href="https://www.linkedin.com/in/chika-onyema-b55741200"><i className="im im-linkedin" aria-hidden="true"></i><span>Linkedin</span></a>
+            <a href="https://www.linkedin.com/in/chika-onyema-164114201"><i className="im im-linkedin" aria-hidden="true"></i><span>Linkedin</span></a>
         </li>
         <li>
             <a href="https://www.github.com/Tenica"><i className="im im-github" aria-hidden="true"></i><span>Github</span></a>
