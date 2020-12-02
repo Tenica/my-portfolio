@@ -50,10 +50,7 @@ const Contact = () => {
                 <h3>Contact</h3>
                 <h1>Say Hello.</h1>
                 
-                <p className="lead">
-
-                Send me a message with a brief description of your project.
-                I will review it and get back to you within one business day with free consultation and next steps.</p>
+                <p className="lead">Fill and submit the form below and i willl respond immediately. Cheers!!</p>
             </div>
         </div>
 
