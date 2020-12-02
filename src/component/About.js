@@ -8,8 +8,8 @@ const About = () => {
             <div className ="col-full text-center">
                 <h3>About</h3>
                 <h1>More About Me</h1>
-                <p className ="lead">I am 28 years years old from Obioma, in Udi local government area in Enugu state, Nigeria.
-                I am highly adaptive and possess a great desire to learn and adopt innovative ideas, for <q>An investment in knowledge
+                <p className ="lead">I am 28 years old, a native of Obiọma in Ụdị local government area of Enugu state in
+                 Nigeria. I am highly adaptive with potential drive to learn and adopt innovative ideas, for <q>an investment in knowledge
                 always pays the best interest.</q>-
                 <cite><a href="https://en.wikipedia.org/wiki/Benjamin_Franklin"><strong>Benjamin Franklin</strong></a></cite></p>
             </div>
@@ -23,15 +23,16 @@ const About = () => {
                 <p>As a self taught programmer,I started learning programming after my NYSC (National Youth Service Corps) in the year 2017 and 
                 it has been a wonderful experience so far.</p>
 
-                <p>Yes i know it can be frustrating especially those errors!But i had a good mentor Mr.Sab Udeh Chukwumdimma C.E.O Kierian Technology 
+                <p>Yes I know it can be frustrating especially those errors!But i had a good mentor Mr.Sab Udeh Chukwumdimma C.E.O Kierian Technology 
                 who guided, encouraged and assisted me with materials which was instrumental to my learning and still of 
-                great value to me. I also inbided in myself a spirit of self-discipline amd had a strong passion and desire to learn.
-                For HTML5 and CSS3 i learnt from Channel 9 tutorials by Bob Tabor (Senior Porgram Manager-Microsoft) and W3schools.
+                great value to me. I also imbided in myself a spirit of self-discipline amd had a strong passion and desire to learn.
+                For HTML5 and CSS3 I learnt from Channel 9 tutorials by Bob Tabor (Senior Porgram Manager-Microsoft) and W3schools.
                 I also downloaded alot of free courses on Youtube.</p>
-                <p>For Javascript,Nodejs,Express,Reactjs tutorials of Andrew Mead from Udemy which i bought helped me alot
-                in unserstanding the concept of Javacript and its various frameworks.I also downloaded courses on facebook which were very
-                helpful.Also websites like stackoverflow, Medium, Dev etc also helped me and still assist me till this day. Also my 
-                working expreiences inchuding internship which you can find on My CV also made me a better experience as the saying goes <q>Experience is the best teacher"</q></p>
+                <p>For Javascript,Node.js,Express and React.js,tutorials of Andrew Mead from Udemy which I bought helped me alot
+                in unserstanding the concept of Javacript and its various frameworks. I also downloaded courses on Youtube which were very
+                helpful. Websites like stackoverflow, Medium, Dev etc also helped me and still assist me till this day.My work experience, 
+                including internship which can be found on my CV, also helped in widening my experience in programming work; 
+                just as the saying goes,<q>Experience is the best teacher</q></p>
             </div>
 
             <div className ="col-six tab-full right">

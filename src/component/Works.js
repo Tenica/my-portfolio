@@ -17,7 +17,8 @@ const Works = () => {
             <h3>Portfolio</h3>
             <h1>See My Latest Projects.</h1>
             
-            <p className="lead">The table below shows some of my projects and projects which i contibuted in its creation. There are other which are not in the table but can be found on my github profile.</p>
+            <p className="lead">The table below shows some of my projects and few others I contributed in creating.
+            There are some other works which are not in the table, but can be found on my  <cite><a href="https://www.github.com/Tenica"><strong>github</strong></a></cite> profile</p>
         </div>
     </div>
         <div className ="table-responsive" style={tableStyle}>
