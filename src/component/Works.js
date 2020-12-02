@@ -12,8 +12,8 @@ const Works = () => {
     return (<div>
       
         <section id="works" className="s-works target-section">
-        <div class="row narrow section-intro has-bottom-sep">
-        <div class="col-full">
+        <div className="row narrow section-intro has-bottom-sep">
+        <div className="col-full">
             <h3>Portfolio</h3>
             <h1>See My Latest Projects.</h1>
             

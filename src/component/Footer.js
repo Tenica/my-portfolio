@@ -42,11 +42,11 @@ const Footer = () => {
             <div className="col-twelve">
                 <div className="copyright">
                     <span>© Copyright Chika 2017</span> 
-                    <span>Design by <a href="https://www.styleshout.com/">styleshout</a></span>	
+                    
                 </div>
 
                 <div className="go-top">
-                <a className="smoothscroll" title="Back to Top" href="#top"><i className="im im-arrow-up" aria-hidden="true"></i></a>
+                <a className="smoothscroll" title="Back to Top" href="#top"><i className="im im-arrow-up" aria-hidden="true"></i> </a>
                 </div>
             </div>
 
